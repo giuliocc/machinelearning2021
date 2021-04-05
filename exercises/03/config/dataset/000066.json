@@ -1,0 +1,1 @@
+{"dataset_path": "datasets/kc1.csv", "delete_columns": [], "test_size": 0.25, "test_outlier_size": 0.6, "random_state": 5}

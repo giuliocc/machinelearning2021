@@ -1,0 +1,10 @@
+{
+    "dataset_path": "datasets/cm1.csv",
+    "delete_columns": [
+        "loc",
+        "locCodeAndComment"
+    ],
+    "test_size": 0.3,
+    "test_outlier_size": 0.0,
+    "random_state": 1
+}

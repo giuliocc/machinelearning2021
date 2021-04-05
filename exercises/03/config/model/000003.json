@@ -1,0 +1,1 @@
+{"model_type": "knndatadescription", "hyperparameters": {"k": 100, "outlier_threshold": 1.0}}
