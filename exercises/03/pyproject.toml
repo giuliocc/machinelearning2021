@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Exercise 03"
+name = "Exercise3"
 version = "0.1.0"
 description = "Exercise #03 from Machine Learning in CIn-UFPE"
 authors = ["Giulio Carvalho <gcc@cin.ufpe.br>"]
